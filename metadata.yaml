@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '25556'
     url: http://www.gutenberg.org/2009/agents/25556
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22813#Heath-s-Modern-Language-Series--La-M-re-de-la-Marquise
 gutenberg_bookshelf: FR Education et Enseignement
 gutenberg_issued: '2007-09-30'
 gutenberg_type: Text
